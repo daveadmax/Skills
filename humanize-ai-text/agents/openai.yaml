@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanize AI Text"
+  short_description: "Make AI drafts sound specific and human"
+  default_prompt: "Use $humanize-ai-text to revise this draft while preserving its meaning and evidence."

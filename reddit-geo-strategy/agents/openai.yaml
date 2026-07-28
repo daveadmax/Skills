@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reddit GEO Strategy"
+  short_description: "Vertrauenswürdige Reddit GEO-Strategien"
+  default_prompt: "Use $reddit-geo-strategy to develop a transparent Reddit GEO strategy for this organization."

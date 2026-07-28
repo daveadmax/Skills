@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO PR"
+  short_description: "Faktenbasierte Pressemitteilungen für GEO"
+  default_prompt: "Use $geo-pr to create, revise, or assess a fact-based press release for GEO and AI visibility."

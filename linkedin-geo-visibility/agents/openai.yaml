@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn GEO Visibility"
+  short_description: "LinkedIn für KI-Sichtbarkeit strategisch nutzen"
+  default_prompt: "Use $linkedin-geo-visibility to create a LinkedIn GEO strategy for our brand, people, and products."

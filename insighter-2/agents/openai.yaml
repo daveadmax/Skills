@@ -1,0 +1,4 @@
+interface:
+  display_name: "INSaiGHTER 2"
+  short_description: "Find creative, evidence-based human insights"
+  default_prompt: "Use $insighter-2 to help me uncover a surprising insight about this topic."

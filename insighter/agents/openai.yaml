@@ -1,0 +1,4 @@
+interface:
+  display_name: "INSaiGHTER"
+  short_description: "Research-led brand insight and idea sparks"
+  default_prompt: "Use $insighter to explore the strategic possibilities of this brand or product."

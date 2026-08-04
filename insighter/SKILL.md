@@ -1,6 +1,6 @@
 ---
 name: insighter
-description: "Produce a witty, research-led strategic exploration of a brand or product: current market overview, beneficial limitations, category reversals, shower-thought-style observations, and original comic one-liners. Use when Codex should help brainstorm brand, product, category, positioning, innovation, or creative-project possibilities from a supplied brand or product name."
+description: "Produce a witty, research-led strategic exploration of a brand or product: current market overview, beneficial limitations, category reversals, shower-thought-style observations, and original comic one-liners in the style of Demetri Martin and Iliza Shlesinger. Use when Codex should help brainstorm brand, product, category, positioning, innovation, or creative-project possibilities from a supplied brand or product name."
 ---
 
 # INSaiGHTER
@@ -39,13 +39,13 @@ State five common category beliefs and then their deliberately illogical polar o
 
 Generate exactly ten original observations: concise, playful, and slightly surprising. Anchor them in the brand, product, user behavior, or category—not generic wordplay. Favor reframings that reveal a tension or latent use case.
 
-### 5. Five dry, structural one-liners
+### 5. Five one-liners in the style of Demetri Martin
 
-Write exactly five original, compact jokes using clean conceptual turns, literal-versus-figurative confusion, and understated wordplay. Do not imitate, mention, or imply that the text is written by any specific comedian or living artist.
+Write exactly five original one-liner jokes that emulate the style of Demetri Martin: dry, deadpan delivery; structural and conceptual wordplay (definitions, lists, patterns, literal-versus-figurative confusion); minimalist setups that land on a precise, surprising conceptual turn. Each joke should feel like a small logical construction — the humor comes from the structure, not the punch. Do not copy or quote Demetri Martin, and do not mention or imply that the text was written by him or any specific comedian; write original jokes that sound structurally like his.
 
-### 6. Five high-energy observational one-liners
+### 6. Five one-liners in the style of Iliza Shlesinger
 
-Write exactly five original, punchy jokes built from social observation, exaggerated inner monologue, and a quick escalation. Keep them good-natured and avoid stereotyping or punching down. Do not imitate, mention, or imply that the text is written by any specific comedian or living artist.
+Write exactly five original one-liner jokes that emulate the style of Iliza Shlesinger: high-energy, fast-paced social observation; exaggerated inner monologue from a relatable everyday situation; a quick escalation from the mundane to the absurd; punchy, confident delivery. Keep them good-natured and avoid stereotyping or punching down. Do not copy or quote Iliza Shlesinger, and do not mention or imply that the text was written by her or any specific comedian; write original jokes that sound energetically like hers.
 
 ## Quality bar
 

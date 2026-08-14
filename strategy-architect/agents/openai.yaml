@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strategy Architect"
+  short_description: "Research-backed brand and business strategies"
+  default_prompt: "Use $strategy-architect to build a current strategy for [brand or product]."

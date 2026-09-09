@@ -2,6 +2,15 @@
 
 Use these constants and patterns when building DOXA-branded slides programmatically with python-pptx.
 
+## Default: Open Editorial Canvas
+
+DOXA slides are editorial pages, not app dashboards. Start with the paper background, whitespace, a serif headline, and a strict alignment grid. Use columns and thin dividers to group content.
+
+- Do not make rounded white cards, shadowed tiles, or a repeated card grid the default visual language.
+- Use a white or tinted surface only when a dense chart, matrix, or functional grouping would otherwise be unclear. Keep it flat, subtle, and subordinate to the slide's story.
+- Let a single big number, a comparison, a chart, or a roadmap have room to breathe; do not surround every element with a box.
+- Export presenter notes separately. The client-facing PDF must contain neither a `Sprechernotiz` label nor its text.
+
 ## Color Constants
 
 ```python
@@ -12,7 +21,7 @@ TERRACOTTA = RGBColor(0xE0, 0x7B, 0x54)   # Primary accent, headings highlights
 TERRA_DARK = RGBColor(0xC9, 0x6F, 0x4A)   # Secondary accent (darker terracotta)
 OBSIDIAN   = RGBColor(0x1E, 0x1E, 0x1E)   # Primary text, dark surfaces
 PAPER      = RGBColor(0xF6, 0xF6, 0xF6)   # Slide background
-WHITE      = RGBColor(0xFF, 0xFF, 0xFF)   # Card/container backgrounds
+WHITE      = RGBColor(0xFF, 0xFF, 0xFF)   # Selective utility surfaces, not default slide cards
 GOLD       = RGBColor(0xB8, 0x86, 0x0B)   # Special callouts, Quick Tips (selten)
 
 # Text hierarchy

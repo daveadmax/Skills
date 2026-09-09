@@ -6,10 +6,19 @@
 
 ## 1. Designphilosophie
 
-1. **Monochrom zuerst.** Schwarz/Weiß/Grautöne tragen 80 % des Layouts: Text, Flächen, Karten, Struktur.
+1. **Monochrom zuerst.** Schwarz/Weiß/Grautöne tragen 80 % des Layouts: Text, Flächen, Struktur und – nur wenn funktional – Oberflächen.
 2. **Terracotta als einziger Markenakzent.** Für Klickbares, Highlights, Stat-Callouts, Logo-Hervorhebungen.
 3. **Farbe nur für Daten & Semantik.** Die Diagrammpalette existiert, weil 5 Linien im Monochrom-Look unlesbar sind – nicht aus Dekorationslust.
 4. **Editorial, ruhig, souverän.** Viel Weißraum, Serif-Headlines (dünn), präzise Mikrotypografie.
+
+### Präsentationen: Editorial Canvas statt Kartenraster
+
+Für Präsentationen ist die Standardkomposition offen und redaktionell: Papierfläche, großzügiger Weißraum, klare Ausrichtung, Serif-Headline und feine Trennlinien. Keine routinemäßigen weißen Karten, abgerundeten Kacheln oder Schatten für jeden Inhaltsblock.
+
+- Gruppierung primär über Raster, Abstand, Spalten und Hairlines lösen.
+- Flächen nur einsetzen, wenn sie eine Chart-, Matrix- oder Dashboard-Beziehung lesbarer machen; dann flach und zurückhaltend.
+- Folien nach ihrer Aussage komponieren, nicht nach einem wiederholten Box-Template.
+- Präsentationsnotizen sind ein separates Presenter-Artefakt und dürfen nie in die Kunden-PDF geraten.
 
 ## 2. Farbhierarchie (4 Ebenen)
 

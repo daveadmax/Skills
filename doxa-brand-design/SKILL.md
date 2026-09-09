@@ -39,7 +39,7 @@ Editorial, warm, minimalist — like high-quality print on fine paper. Ruhig, so
 - **Section Labels:** 10px, weight 600, letter-spacing 0.15em, uppercase
 - **Header Brand Name:** 11px, weight 600, letter-spacing 0.2em, uppercase, muted color
 
-## Structure Pattern
+## Email Structure Pattern
 
 1. **Paper background** (`#f6f6f6`) wrapping the entire page/email
 2. **White container card** (`#ffffff`) with generous padding (48px)
@@ -48,6 +48,20 @@ Editorial, warm, minimalist — like high-quality print on fine paper. Ruhig, so
 5. **Deep Dive** section: in-depth analysis of one key topic
 6. **Quick Tip** section: actionable advice in gold accent
 7. **Footer:** Dark background (`#1e1e1e`) with brand name, URL, metadata
+
+This container pattern applies to emails and long-form documents. It is not the default for presentation slides.
+
+## Presentation Composition — Editorial Canvas by Default
+
+For DOXA presentations and case studies, begin with an open, editorial canvas: paper background, generous whitespace, a clear serif headline, and precisely aligned content on an underlying grid.
+
+- **No default card grid.** Do not put each insight, number, text block, or chart into a white, rounded, or shadowed box. Avoid repeated “dashboard cards” and boxed tiles as a generic layout solution.
+- **Create hierarchy with space, alignment, and hairlines.** Use columns, horizontal rules, restrained color accents, and a consistent baseline before adding a surface or border.
+- **Use surfaces only when they clarify a real relationship.** A chart background, a comparison matrix, or a dense dashboard may need a subtle grouping surface; it should be flat, square-edged or nearly square-edged, border-light, and never ornamental.
+- **One slide, one point.** Vary the composition according to the story: a large stat, a two-column contrast, a source ecosystem, a roadmap, or a chart. Do not repeat the same card layout slide after slide.
+- **Keep speaker notes out of delivery files.** Notes belong in a presenter-only version. A client-facing PDF or shared deck must export without visible `Sprechernotiz` blocks and be visually checked at final 16:9 size.
+
+Read `references/design-system.md` for the presentation composition rules and `references/powerpoint-styling.md` when creating slides programmatically.
 
 ## Tone
 
@@ -62,7 +76,7 @@ See `templates/geo-briefing-email.html` for the canonical GEO Morning Briefing H
 
 ## PowerPoint / python-pptx
 
-When creating or editing DOXA-branded PowerPoint slides programmatically, use the color constants, font mappings, and layout patterns in `references/powerpoint-styling.md`. It covers python-pptx `RGBColor` values for every DOXA color, the typography scale (EB Garamond 30-32pt thin titles — Regular/400, Montserrat 13pt body, **Terracotta #E07B54 accents — NOT green**), and Google Slides export detection (shape naming, font embedding, chart detection).
+When creating or editing DOXA-branded PowerPoint slides programmatically, use the color constants, font mappings, and layout patterns in `references/powerpoint-styling.md`. It covers python-pptx `RGBColor` values for every DOXA color, the typography scale (EB Garamond 30-32pt thin titles — Regular/400, Montserrat 13pt body, **Terracotta #E07B54 accents — NOT green**), the editorial-canvas slide rule, and Google Slides export detection (shape naming, font embedding, chart detection).
 
 **Master template:** `/root/workspace/doxa-template.pptx` (19 slides, 16:9, built 2026-08-02 from the O2 deck) is the canonical DOXA presentation template — neutral placeholders, thin headings, terracotta accents. Build decks by filling its layouts.
 

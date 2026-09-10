@@ -4,12 +4,22 @@ Use these constants and patterns when building DOXA-branded slides programmatica
 
 ## Default: Open Editorial Canvas
 
-DOXA slides are editorial pages, not app dashboards. Start with the paper background, whitespace, a serif headline, and a strict alignment grid. Use columns and thin dividers to group content.
+DOXA slides are editorial pages, not app dashboards. Start with the paper background, a strict alignment grid, and the specific narrative role of the slide—not a fixed placeholder arrangement. Use columns and thin dividers to group content.
 
 - Do not make rounded white cards, shadowed tiles, or a repeated card grid the default visual language.
+- Whitespace must create focus, tension, hierarchy, or a deliberate narrative pause. Recompose accidental empty areas instead of treating them as automatically premium.
+- Avoid the generic headline-top/content-bottom split. Use scale, asymmetry, cropping, overlap, and placement to clarify the particular idea when appropriate.
+- Match visual emphasis to narrative importance. Vary page archetypes and intensity across the deck: a turning point can be dominated by a stat, phrase, image, or chart; explanatory material should be quieter.
+- Treat typography as a graphic tool. A headline, statistic, or short phrase may carry a slide through size, line breaks, placement, or italic emphasis.
 - Use a white or tinted surface only when a dense chart, matrix, or functional grouping would otherwise be unclear. Keep it flat, subtle, and subordinate to the slide's story.
 - Let a single big number, a comparison, a chart, or a roadmap have room to breathe; do not surround every element with a box.
 - Export presenter notes separately. The client-facing PDF must contain neither a `Sprechernotiz` label nor its text.
+
+## Visual QA: Composition Test
+
+Review exported slides at final 16:9 size. Flag a slide for recomposition if its layout could be reused unchanged with arbitrary content: it is likely relying on a generic template rather than expressing its specific insight.
+
+For each flagged slide, first identify its narrative role—orientation, evidence, contrast, turning point, recommendation, or close—then adjust scale, placement, whitespace, and visual intensity so that the composition makes that role visible.
 
 ## Color Constants
 

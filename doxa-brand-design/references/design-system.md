@@ -13,11 +13,16 @@
 
 ### Präsentationen: Editorial Canvas statt Kartenraster
 
-Für Präsentationen ist die Standardkomposition offen und redaktionell: Papierfläche, großzügiger Weißraum, klare Ausrichtung, Serif-Headline und feine Trennlinien. Keine routinemäßigen weißen Karten, abgerundeten Kacheln oder Schatten für jeden Inhaltsblock.
+Für Präsentationen ist die Standardkomposition offen und redaktionell: Papierfläche, großzügiger Weißraum, klare Ausrichtung, Serif-Headline und feine Trennlinien. Keine routinemäßigen weißen Karten, abgerundeten Kacheln oder Schatten für jeden Inhaltsblock. Die Folie ist eine bewusst komponierte Seite, kein befülltes Template.
 
 - Gruppierung primär über Raster, Abstand, Spalten und Hairlines lösen.
+- Weißraum braucht eine dramaturgische Funktion: Fokus, Spannung, Hierarchie oder eine bewusste Pause. Entsteht er nur aus der Anordnung, die Folie neu komponieren.
+- Keine generische „Headline oben, Inhalt unten“-Mechanik. Platzierung, Maßstab, Anschnitt, Überlagerung und Asymmetrie dürfen die Aussage sichtbar machen, wenn sie ihr dienen.
+- Typografie kann selbst grafisch führen: eine übergroße Zahl, ein Wort, ein kurzer Satz oder ein kursiv gesetzter Gedanke darf zum prägenden Bildelement werden.
+- Folientypen und visuelle Intensität über das Deck variieren. Narrative Wendepunkte und zentrale Evidenz erhalten die stärkste Komposition; Einordnung und Belege bleiben ruhiger.
 - Flächen nur einsetzen, wenn sie eine Chart-, Matrix- oder Dashboard-Beziehung lesbarer machen; dann flach und zurückhaltend.
 - Folien nach ihrer Aussage komponieren, nicht nach einem wiederholten Box-Template.
+- Visuelle Abnahme: Jede Folie markieren und überarbeiten, deren Komposition mit beliebigem anderen Inhalt unverändert funktionieren würde. Die Form muss eine erkennbare Beziehung zur konkreten Aussage und ihrer Rolle in der Story haben.
 - Präsentationsnotizen sind ein separates Presenter-Artefakt und dürfen nie in die Kunden-PDF geraten.
 
 ## 2. Farbhierarchie (4 Ebenen)

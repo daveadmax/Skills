@@ -56,9 +56,14 @@ This container pattern applies to emails and long-form documents. It is not the 
 For DOXA presentations and case studies, begin with an open, editorial canvas: paper background, generous whitespace, a clear serif headline, and precisely aligned content on an underlying grid.
 
 - **No default card grid.** Do not put each insight, number, text block, or chart into a white, rounded, or shadowed box. Avoid repeated “dashboard cards” and boxed tiles as a generic layout solution.
-- **Create hierarchy with space, alignment, and hairlines.** Use columns, horizontal rules, restrained color accents, and a consistent baseline before adding a surface or border.
+- **Whitespace needs a job.** Empty space must create focus, tension, hierarchy, or a deliberate pause in the story. If it does none of these, recompose the slide rather than leaving an accidental gap.
+- **Compose the page; do not fill a template.** Use columns, horizontal rules, restrained color accents, and a consistent baseline, but place elements for the specific point of the slide—not in fixed headline-top/content-bottom zones.
+- **Use editorial art direction with intent.** Scale, asymmetry, cropping, overlap, and a single oversized number, word, image, or chart are valid ways to create emphasis. Use them when they clarify the idea, never as decoration.
+- **Let the deck breathe and accelerate.** Vary slide archetypes and visual intensity across the narrative. Reserve the most dominant compositions for turning points and key evidence; supporting material should be quieter.
+- **Treat typography as a visual element.** A headline, stat, or short phrase may carry the composition through scale, placement, line breaks, or italic emphasis—not only through a conventional text block.
 - **Use surfaces only when they clarify a real relationship.** A chart background, a comparison matrix, or a dense dashboard may need a subtle grouping surface; it should be flat, square-edged or nearly square-edged, border-light, and never ornamental.
 - **One slide, one point.** Vary the composition according to the story: a large stat, a two-column contrast, a source ecosystem, a roadmap, or a chart. Do not repeat the same card layout slide after slide.
+- **Visual QA:** Flag and recompose any slide whose layout could work unchanged with arbitrary content. It needs a visible relationship to its particular insight and role in the narrative.
 - **Keep speaker notes out of delivery files.** Notes belong in a presenter-only version. A client-facing PDF or shared deck must export without visible `Sprechernotiz` blocks and be visually checked at final 16:9 size.
 
 Read `references/design-system.md` for the presentation composition rules and `references/powerpoint-styling.md` when creating slides programmatically.
